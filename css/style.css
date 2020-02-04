@@ -33,7 +33,7 @@ body{
 /*--- Landing Page---*/
 
 .home-inner{
-    background-image: url(img/computers.png);
+    background-image: url(../img/computers.png);
 }
 .caption{
     width: 100%;
@@ -61,6 +61,7 @@ body{
     border-radius: 0;
     padding: .6rem 1.3rem;
     font-size: 1.1rem;
+    color: white;
 }
 
 
